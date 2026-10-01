@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Factory Method
 public class AlertaDeslizamento implements IAlerta {
 
     public String emitir() {

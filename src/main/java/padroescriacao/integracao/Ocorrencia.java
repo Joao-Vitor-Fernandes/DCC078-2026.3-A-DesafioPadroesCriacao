@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Abstract Factory
 public class Ocorrencia {
     private Comunicado comunicado;
     private Acionamento acionamento;

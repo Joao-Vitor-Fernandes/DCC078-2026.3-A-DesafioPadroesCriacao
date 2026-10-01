@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Integração
 public class DefesaCivil {
 
     public String emitirAlerta(String tipoAlerta, FabricaAbstrata fabrica) {

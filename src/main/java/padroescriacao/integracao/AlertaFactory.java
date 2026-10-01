@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Factory Method
 public class AlertaFactory {
 
     public static IAlerta obterAlerta(String alerta) {

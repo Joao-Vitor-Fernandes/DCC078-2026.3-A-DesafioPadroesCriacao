@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+// Factory Method
 public class AlertaDeslizamentoTest {
 
     @Test

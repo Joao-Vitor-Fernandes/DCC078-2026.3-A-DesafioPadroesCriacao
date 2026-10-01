@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Factory Method
 public class AlertaIncendio {
 
     public String emitir() {

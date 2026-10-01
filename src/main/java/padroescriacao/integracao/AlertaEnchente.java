@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Factory Method
 public class AlertaEnchente implements IAlerta {
 
     public String emitir() {

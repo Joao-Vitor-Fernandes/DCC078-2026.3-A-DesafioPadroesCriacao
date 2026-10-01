@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Abstract Factory
 public class ComunicadoAtencao implements Comunicado {
 
     public String divulgar() {

@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Abstract Factory
 public class FabricaAtencao implements FabricaAbstrata {
 
     @Override

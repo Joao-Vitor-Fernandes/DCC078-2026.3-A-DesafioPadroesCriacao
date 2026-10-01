@@ -1,5 +1,6 @@
 package padroescriacao.integracao;
 
+// Singleton
 public class ConfigDefesaCivil {
 
     private ConfigDefesaCivil() {};
