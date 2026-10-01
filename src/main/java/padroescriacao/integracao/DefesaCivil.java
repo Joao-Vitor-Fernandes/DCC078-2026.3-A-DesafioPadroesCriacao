@@ -14,9 +14,9 @@ public class DefesaCivil {
         Ocorrencia ocorrencia = new Ocorrencia(fabrica);
 
         return config.getMunicipio() + " | Operador: " + config.getOperadorLogado() +
-                " | " + alerta.emitir() +
-                " | " + ocorrencia.divulgarComunicado() +
-                " | " + ocorrencia.acionarEquipes();
+            " | " + alerta.emitir() +
+            " | " + ocorrencia.divulgarComunicado() +
+            " | " + ocorrencia.acionarEquipes();
     }
 
     public String cancelarAlerta(String tipoAlerta) {
